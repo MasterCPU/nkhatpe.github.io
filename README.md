@@ -1,4 +1,4 @@
-# DevOps Engineer | Cloud Enthusiast | Software Devloper 
+# DevOps Engineer | Cloud Enthusiast | Software Developer  
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
