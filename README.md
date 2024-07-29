@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- M.S., Computer Science | State University of New York  (_May 2025_)								       					        		
+- M.S., Computer Science | Binghamton University  (_May 2025_)								       					        		
 - B.E., Computer Engineering | Pune University (_April 2020_)
 
 ## Work Experience
